@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PullMoch2</string>
+    <string name="real_app_name">Boutique MonPullMoch2</string>
+    <string name="inferieur">&lt;</string>
+    <string name="superieur">&gt;</string>
+    <string name="description">pull de noël</string>
+    <string name="text1">"A Noël c'est moi qui tient les rennes"</string>
+    <string name="descPull">"Pull de noël"</string>
+    <string name="realisation">"Réalisé par G. Moirod, 2020</string>
+    <string name="descriptionPull">"Un pull qui ravira les petits comme les grands. Tricoté par d'authentiques grand-mères Australliennes, en laine 100% coton naturel issue d'une agricuture durable certifiée ISO-2560. "</string>
+
+
+</resources>
